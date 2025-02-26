@@ -1,1 +1,2 @@
 # aid-guardian-app
+A first responder web app, enabling users to report medical emergencies at just one tap of a button. The application features a dynamic map that automatically updates in real time to display the optimal route from available responders to the incident. Trained first aiders can then choose to accept or decline the alert, while an integrated OCR system verifies users' medical certificates to ensure qualification for providing assistance.
