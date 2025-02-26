@@ -1,0 +1,8 @@
+rootProject.name = 'aid-guardian'
+include 'model'
+include 'persistence'
+include 'networking'
+include 'services'
+include 'server'
+include 'client'
+include 'rest-api'
